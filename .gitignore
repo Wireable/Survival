@@ -8,6 +8,14 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-Content/Environments
+T_*.uasset
+*_Tex.uasset
+Content/Environments/Trees/Tree_Stump_01/D_*.uasset
+Content/Environments/Cliffs
+Content/Environments/Foliage
+Content/Environments/GroundTiles
+Content/Environments/Material
+Content/Environments/Textures
+Content/Environments/Cliffs
 Content/KiteDemo
 Content/StarterContent
